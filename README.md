@@ -3,6 +3,12 @@
   <p align="center"><a href="https://github.com/Gabrielingnau/Todo-list">View the desktop version</a></p>
 </p>
 
+<p align="center">
+  <img width="800" src="./assets/images/Cover.png">
+</p>
+
+## 💻 About:
+
 A to-do list-style task tracking application
 
 ## 🎨 Layout
@@ -10,7 +16,7 @@ A to-do list-style task tracking application
 The layout of the application is available in Figma:
 
 <a href="https://www.figma.com/file/By8bEIEPXvUkptna6Iv8hm/ToDo-List-%E2%80%A2-Desafio-React-Native-(Copy)?node-id=0%3A1&mode=dev">
-  <img alt="Made by tgmarinho" src="./assets/images/Todo List.jpg">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 ## Features
