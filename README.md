@@ -73,8 +73,8 @@ Then just scan the QR code that will appear on the VsCode terminal
 
 ## 🛠️ Built with
 
-* [React.js](https://react.dev/) - The library for user interfaces
-* [Vite](https://vitejs.dev/) - FrontEnd Tool
+* [React Native](https://reactnative.dev/) - The library for user interfaces
+* [Expo](https://expo.dev/) - FrontEnd Tool
 * [Typescript](https://www.typescriptlang.org/) - Syntax for types
 
 ---
