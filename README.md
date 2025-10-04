@@ -1,82 +1,82 @@
 # Todo List (Mobile)
+
 <p align="center">
-  <p align="center"><a href="https://github.com/Gabrielingnau/Todo-list">View the desktop version</a></p>
+  <p align="center"><a href="https://github.com/Gabrielingnau/Todo-list">Ver a versão para desktop</a></p>
 </p>
 
 <p align="center">
   <img width="800" src="./assets/images/Cover.png">
 </p>
 
-## 💻 About:
+## 💻 Sobre:
 
-A to-do list-style task tracking application
+Um aplicativo de acompanhamento de tarefas no estilo lista de afazeres (to-do list)
 
 ## 🎨 Layout
 
-The layout of the application is available in Figma:
+O layout da aplicação está disponível no Figma:
 
 <a href="https://www.figma.com/file/By8bEIEPXvUkptna6Iv8hm/ToDo-List-%E2%80%A2-Desafio-React-Native-(Copy)?node-id=0%3A1&mode=dev">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Feito por tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-## Features
+## ⚙️ Funcionalidades
 
-- Add a new task
-- Mark and unmark a task as complete
-- Remove a task from the listing
-- Show the progress of completing tasks
+- Adicionar uma nova tarefa  
+- Marcar e desmarcar uma tarefa como concluída  
+- Remover uma tarefa da lista  
+- Mostrar o progresso de conclusão das tarefas  
 
-## Applied Concepts
+## 🧩 Conceitos Aplicados
 
-- States
-- State immutability
-- Lists and keys in React Native
-- Properties
-- Componentization
+- Estados  
+- Imutabilidade do estado  
+- Listas e chaves no React Native  
+- Propriedades  
+- Componentização  
 
-## 🚀 Starting
+## 🚀 Iniciando
 
-These instructions will allow you to obtain a copy of the working project on your local machine for development and testing purposes.
+Essas instruções permitirão que você obtenha uma cópia do projeto em funcionamento na sua máquina local para fins de desenvolvimento e teste.
 
-## 🔧 Installation
+## 🔧 Instalação
 
-### Prerequisites
+### Pré-requisitos
 
-Before you begin, you will need to have the following tool installed on your machine:
-[VSCode](https://code.visualstudio.com/)
-It is also good to have a way to run the project on your cell phone, you can do this by downloading the:
-[Expo Go](https://expo.dev/expo-go)
+Antes de começar, você precisará ter a seguinte ferramenta instalada na sua máquina:  
+[VSCode](https://code.visualstudio.com/)  
 
-Inside the VsCode terminal write the following code
+Também é bom ter uma forma de rodar o projeto no seu celular.  
+Você pode fazer isso baixando o aplicativo:  
+[Expo Go](https://expo.dev/expo-go)  
 
-```
+Dentro do terminal do VSCode, digite o seguinte código:
+
+```bash
 git init
-```
 
-```
 git clone https://github.com/Gabrielingnau/Todo-list-mobile
 ```
-Then intade the dependencies with
+Em seguida, instale as dependências com:
 
-```
+```bash
 npm install
 ```
+Depois, basta executar o projeto com:
 
-Then just run the project with
-
-```
+```bash
 npm run start
 ```
 
-Open the Espo Go app on your phone, and click on the "scan QR code" option.
-Then just scan the QR code that will appear on the VsCode terminal
+Abra o aplicativo Expo Go no seu celular e clique na opção **"scan QR code"**.  
+Em seguida, basta escanear o código QR que aparecerá no terminal do VSCode.
 
-## 🛠️ Built with
+## 🛠️ Construído com
 
-* [React Native](https://reactnative.dev/) - The library for user interfaces
-* [Expo](https://expo.dev/) - FrontEnd Tool
-* [Typescript](https://www.typescriptlang.org/) - Syntax for types
+* [React Native](https://reactnative.dev/) - Biblioteca para interfaces de usuário  
+* [Expo](https://expo.dev/) - Ferramenta de FrontEnd  
+* [Typescript](https://www.typescriptlang.org/) - Sintaxe para tipagem  
 
 ---
-⌨️ with ❤️ by [Gabriel Lingnau](https://github.com/Gabrielingnau) 😊
-=======
+
+⌨️ com ❤️ por [Gabriel Lingnau](https://github.com/Gabrielingnau) 😊
